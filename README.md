@@ -1,5 +1,5 @@
-k8s-master
-=========
+# ahuffman.k8s-master
+
 
 An ansible role to configure a kubernetes master on a Red Hat Enterprise Linux based system.
 
@@ -113,9 +113,9 @@ Bare minimum while running a node on the master as well (applied k8s-node role) 
 License
 -------
 
-MIT
+[MIT](LICENSE)
 
 Author Information
 ------------------
 
-Andrew J. Huffman
+[Andrew J. Huffman](https://github.com/ahuffman)
